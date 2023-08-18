@@ -326,3 +326,7 @@ Select a principal
 <p>
   
   Congrats! You have now successfully installed and setup osTicket!
+  <hr>
+<h1><p align=center>There's some backend setup we have to do!</p></h1
+
+<h2><p align=center>Next Demonstration:<br><a href="https://github.com/ShayneSL/osTicket-BackEnd-Config">osTicket - Post-Install Configuration</a></p></h2>
